@@ -1,4 +1,4 @@
-import DeleteItem from "../cart/DeleteIteme";
+import DeleteItem from "../cart/DeleteItem";
 import Button from "../../ui/Button";
 import { formatCurrency } from "../../utilities/helpers";
 import UpdateItemQuantity from "../cart/UpdateItemQuantity";
